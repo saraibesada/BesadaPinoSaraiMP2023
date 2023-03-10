@@ -16,7 +16,7 @@ public class Fraccion implements Comparable<Object> {
 	/**
 	 * Metodo constructor de la clase Fraccion.
 	 * @param numerador
-	 * Se le pasa por parametros el numerador la Fraccion.
+	 * Se le pasa por parametros el numerador de la Fraccion.
 	 * @param denominador
 	 * Se le pasa por parametros el denominador de la Fraccion.
 	 */
