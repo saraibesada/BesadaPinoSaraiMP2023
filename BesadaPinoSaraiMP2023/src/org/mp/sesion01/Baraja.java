@@ -4,6 +4,7 @@ package org.mp.sesion01;
  * @author Sarai
  *
  */
+
 public class Baraja {
 
 	private String nombreBaraja;
