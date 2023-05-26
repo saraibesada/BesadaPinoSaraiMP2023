@@ -20,14 +20,14 @@ public class UtilidadArchivos {
 	
 
 	/**
-	 * Constructor. No recibe parametros. Inicializa la lista.
+	 * Constructor. No recibe parámetros. Inicializa la lista.
 	 */
 	public UtilidadArchivos() {
 		this.lista = new ArrayList<File>();
 	}
 	
 	/**
-	 * Copia el archivo origen en el directorio destino especificados por parametros. 
+	 * Copia el archivo origen en el directorio destino especificados por parámetros. 
 	 * @param origen Archivo origen.
 	 * @param destino Directorio destino.
 	 * @exception IOException Excepcion.

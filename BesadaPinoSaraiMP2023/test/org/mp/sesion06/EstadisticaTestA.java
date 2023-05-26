@@ -8,7 +8,7 @@ import java.util.Locale;
 import org.junit.Before;
 import org.junit.Test;
 
-public class EstadisticaTest {
+public class EstadisticaTestA {
 	String archivoTexto;
 	String directorioEntrada;
 	ConjuntoDatos cd; 

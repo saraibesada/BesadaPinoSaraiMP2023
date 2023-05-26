@@ -2,8 +2,8 @@ package org.mp.sesion05;
 
 /**
  * Clase SolucionesBusqueda. 
- * @author Sarai Besada Pino.
- *	Esta clase implenta tres metodos de busqueda: lineal, binaria recursiva y binaria Iterativa.
+ * @author Sarai Besada
+ *	Esta calse implenta tres metodos de busqueda: lineal, binaria recursiva y binaria Iterativa.
  */
 
 public class SolucionesBusqueda {

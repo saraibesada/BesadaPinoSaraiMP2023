@@ -2,10 +2,11 @@ package org.mp.sesion06;
 
 import java.io.IOException;
 
+
 import org.apache.commons.math3.stat.descriptive.DescriptiveStatistics;
 /**
  * Clase Estadistica.
- * @author Sarai Besada 
+ * @author S
  *
  */
 public class Estadistica {
